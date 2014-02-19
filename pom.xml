@@ -1,21 +1,21 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<properties>
-		<currentVersion>2.7.1</currentVersion>
+		<currentVersion>0.0.1</currentVersion>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 	</properties>
 	<groupId>org.aido.atp</groupId>
 	<artifactId>aidoatp</artifactId>
-	<version>${currentVersion}</version>
+	<version>0.0.1</version>
 	<name>Aido ATP</name>
 	<description>Aido Advanced Trading Platform</description>
 	<issueManagement>
 		<system>GitHub</system>
-		<url>https://github.com/aido/AidoATP/issues</url>
+		<url>https://github.com/kissdevil/AidoATP/issues</url>
 	</issueManagement>
 	<scm>
-		<url>git://github.com/aido/AidoATP</url>
+		<url>git://github.com/kissdevil/AidoATP</url>
 	</scm>
 	<repositories>
 		<repository>
